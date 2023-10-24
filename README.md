@@ -3,7 +3,7 @@
 # 👋 Olá, Comunidade Dev! 👩‍💻
 
 <p align="center">
-  <img src="images/image.png" alt="Dieniffer" width="200" style="border-radius:50%; border:3px solid #EFEFEF;box-shadow:10px 10px 10px #EEE;">
+  <img src="images/image.png" alt="Dieniffer" width="200">
 </p>
 
 ## 🌟 Sou Dieniffer, mas prefiram me chamar de *Jay* 🌟
