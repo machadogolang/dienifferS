@@ -3,11 +3,16 @@
 # 👋 Olá, Comunidade Dev! 👩‍💻
 
 <p align="center">
-  <img src="images/image.png" alt="Dieniffer" width="200" style="border-radius:50%; border:3px solid #EEE;box-shadow:10px 10px 10px #DDD;">
+  <img src="images/image.png" alt="Dieniffer" width="200" style="border-radius:50%; border:3px solid #EFEFEF;box-shadow:10px 10px 10px #EEE;">
 </p>
 
 ## 🌟 Sou Dieniffer, mas prefiram me chamar de *Jay* 🌟
+
+Página pessoal: https://dieniffer.vercel.app
+
+>  ` 
 > 🏷️ **Back-End Developer**
+> 
 > ![Back-End Developer Badge](https://img.shields.io/badge/Back--End%20Developer-100000?style=for-the-badge&logo=ko-fi&logoColor=white)
 
 ---
@@ -30,10 +35,10 @@ Este perfil é um reflexo do meu desenvolvimento profissional. Aqui você encont
 
 ---
 
-## 🛠 Tecnologias e Habilidades 🛠
+## 🛠 Hard Skills 🛠
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,3 +52,5 @@ Este perfil é um reflexo do meu desenvolvimento profissional. Aqui você encont
 ---
 
 ![Top Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dienifferS)
+
+---
